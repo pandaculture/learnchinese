@@ -1,0 +1,1 @@
+# 项目 LearnChinese 介绍教外国人学中文## 目录介绍- `docs`：存放文档- `src`：存放网站代码## 项目目标使用docusaurus构建一个静态网站，用于教外国人学习中文。代码会托管在Github上，网站会部署在Github Pages上。
